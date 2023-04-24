@@ -1,1 +1,1 @@
-Use pathlib in DOTA ops (#7552)
+Update format.yml to pull_request_target (#7460)
