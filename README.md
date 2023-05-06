@@ -1,1 +1,1 @@
-Fix Neural Magic links (#9144)
+Update YOLOv3 and YOLOv5 YAMLs (#7574)
