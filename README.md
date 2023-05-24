@@ -1,1 +1,1 @@
-Fix an issue with flatbuffer version for Raspberry Pi (#8311)
+ultralytics 8.0.229 add model.embed() method (#7098)
