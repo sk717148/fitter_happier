@@ -1,1 +1,1 @@
-Fix bbox2segment converter (#7814)
+Add missing Explorer docs reference pages (#7455)
