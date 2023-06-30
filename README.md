@@ -1,1 +1,1 @@
-Add millimeters in solutions/distance_caculation.py + object-cropping.md visuals (#7860)
+Allow Annotator PIL.Image inputs (#8397)
