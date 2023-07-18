@@ -1,1 +1,1 @@
-ultralytics 8.0.225 multi-video tracker bug fix (#6862)
+Fix bbox2segment converter (#7814)
