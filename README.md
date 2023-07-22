@@ -1,1 +1,1 @@
-Add type hinting to explorer.py (#7388)
+Add bgr hyperparameter (#9139)
