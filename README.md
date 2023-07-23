@@ -1,1 +1,1 @@
-Add bgr hyperparameter (#9139)
+Cleanup Docs languages (#7865)
