@@ -1,1 +1,1 @@
-Update Docs language dropdown height (#6927)
+added badges (#45)
