@@ -1,1 +1,1 @@
-Improve Coral Edge TPU guide (#8160)
+ultralytics 8.0.235 YOLOv8 OBB train, val, predict and export (#4499)
