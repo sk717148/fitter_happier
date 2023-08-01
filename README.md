@@ -1,1 +1,1 @@
-Model typehints Docker fix (#8306)
+Add distance calculation feature in vision-eye (#8616)
