@@ -1,1 +1,1 @@
-Update mkdocs-ultralytics-plugin>=0.0.44 (#8347)
+Add Amazon Sagemaker Docs integrations page (#7293)
