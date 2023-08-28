@@ -1,1 +1,1 @@
-Fix docs H1 tags (#7182)
+ultralytics 8.1.25 OpenVINO LATENCY and THROUGHPUT modes (#8058)
