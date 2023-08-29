@@ -1,1 +1,1 @@
-Add dota8.yaml and O tests (#7394)
+Explorer with LanceDB, Actions and Docs updates (#7487)
