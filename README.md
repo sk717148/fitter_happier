@@ -1,1 +1,1 @@
-Fix heatmaps width-height order bug (#7184)
+New MLFLOW_KEEP_RUN_ACTIVE flag for enhanced MLflow run management (#8808)
