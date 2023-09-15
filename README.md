@@ -1,1 +1,1 @@
-Fix TypeError in check_cfg() (#9245)
+Fix an issue with flatbuffer version for Raspberry Pi (#8311)
