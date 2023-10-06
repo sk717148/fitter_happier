@@ -1,1 +1,1 @@
-Tab Manager - An easy way to batch-export, batch-close, and batch-add tabs
+ultralytics 8.0.236 dataset semantic & SQL search API (#7136)
