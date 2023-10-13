@@ -1,1 +1,1 @@
-ultralytics 8.1.6 revert 8.0.206 box ops box scaling (#7823)
+Pin duckdb<=0.9.2 to avoid 0.10.0 errors (#8181)
