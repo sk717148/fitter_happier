@@ -1,1 +1,1 @@
-ultralytics 8.0.230 TensorRT export hang fix (#7180)
+Update mkdocs-ultralytics-plugin>=0.0.44 (#8347)
