@@ -1,1 +1,1 @@
-Fix docs H1 tags (#7182)
+Add missing single-line docstrings (#8362)
