@@ -1,1 +1,1 @@
-Add missing single-line docstrings (#8362)
+Improve Docs Modes tables (#8266)
