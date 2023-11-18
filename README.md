@@ -1,1 +1,1 @@
-ultralytics 8.1.17 fix ClassificationDataset caching (#8358)
+ultralytics 8.0.232 OpenCV 4.9.0 readonly np.array fix (#7256)
