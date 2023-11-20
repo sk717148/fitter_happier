@@ -1,1 +1,1 @@
-OBB: Fix plot_images (#7592)
+Update Colab notebook for YOLOv8.1 (#8660)
