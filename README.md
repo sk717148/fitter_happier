@@ -1,1 +1,1 @@
-Move Explorer tests to scheduled CI (#8305)
+ultralytics 8.1.11 expand OpenVINO INT8 ops for improved mAP (#7516)
