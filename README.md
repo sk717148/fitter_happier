@@ -1,1 +1,1 @@
-Fix Neural Magic links (#9144)
+Move Explorer tests to scheduled CI (#8305)
