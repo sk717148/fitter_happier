@@ -1,1 +1,1 @@
-Object Counter improvements (#8648)
+Pass callbacks to validator (#7320)
