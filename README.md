@@ -1,1 +1,1 @@
-ultralytics 8.1.22 HUB model pathlib fix (#8621)
+Add plot_images conf_thresh parameter (#8446)
