@@ -1,1 +1,1 @@
-Fix heatmaps width-height order bug (#7184)
+ultralytics 8.0.226 Validator Path and Tuner space (#6901)
