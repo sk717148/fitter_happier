@@ -1,1 +1,1 @@
-ultralytics 8.1.19 PNNX aarch64 linux fix (#8480)
+Add https://youtu.be/96NkhsV-W1U to docs and heatmaps fix (#7944)
