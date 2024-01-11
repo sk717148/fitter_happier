@@ -1,1 +1,1 @@
-Update OpenVINO INT8 export (#7515)
+ultralytics 8.1.19 PNNX aarch64 linux fix (#8480)
