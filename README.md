@@ -1,1 +1,1 @@
-Capitalize OBB acronym (#7383)
+fix predict with class filter
