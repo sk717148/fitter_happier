@@ -1,1 +1,1 @@
-Add https://youtu.be/ie3vLUDNYZo and other YT videos in Docs (#8551)
+Update mkdocs-ultralytics-plugin>=0.0.44 (#8347)
