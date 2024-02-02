@@ -1,1 +1,1 @@
-Add visuals in guides/distance-calculation.md (#7876)
+ultralytics 8.1.24 new OpenVINO 2023.3 export updates (#8417)
