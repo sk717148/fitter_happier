@@ -1,1 +1,1 @@
-* fix for predicting with batch_size > 1
+Add visuals in guides/distance-calculation.md (#7876)
