@@ -1,1 +1,1 @@
-Auto-format by https://ultralytics.com/actions
+Add YouTube iframe loading=lazy (#8001)
