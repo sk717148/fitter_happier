@@ -1,1 +1,1 @@
-Add speed_estimation and distance_calculation in ultralytics solutions (#7325)
+Ultralytics Actions with OpenAI GPT-4 PR Summary (#7867)
