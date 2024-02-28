@@ -1,1 +1,1 @@
-Object Counter improvements (#8648)
+fix for KeyError: 'epoch' (#48)
