@@ -1,1 +1,1 @@
-fix for KeyError: 'epoch' (#48)
+Add HUB-SDK docs (#7775)
