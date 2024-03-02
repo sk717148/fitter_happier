@@ -1,1 +1,1 @@
-Python refactorings and simplifications (#7549)
+ultralytics 8.1.34 Inference API robust imgsz checks (#9274)
