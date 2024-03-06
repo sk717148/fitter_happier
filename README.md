@@ -1,1 +1,1 @@
-Add instance segmentation and vision-eye mapping in Docs + Fix minor code bug in other real-world-projects (#6972)
+Add YOLOv8-OBB https://youtu.be/Z7Z9pHF8wJc (#7780)
