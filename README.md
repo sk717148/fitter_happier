@@ -1,1 +1,1 @@
-Add CoreML Docs Integrations Page (#8063)
+Add visuals in guides/distance-calculation.md (#7876)
