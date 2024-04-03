@@ -1,1 +1,1 @@
-fix predict with class filter
+Update OpenVINO INT8 export (#7515)
