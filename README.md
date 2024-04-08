@@ -1,1 +1,1 @@
-* fix for KeyError: 'epoch'
+Fix heatmaps width-height order bug (#7184)
