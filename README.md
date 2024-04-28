@@ -1,1 +1,1 @@
-ADD | opnecv c++ Onnx integration (#70)
+ultralytics 8.0.227 respect defaults.yaml data (#6935)
