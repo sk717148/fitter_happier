@@ -1,1 +1,1 @@
-ultralytics 8.0.227 respect defaults.yaml data (#6935)
+Fix device counting method to account for double-digit device IDs (#8502)
