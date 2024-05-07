@@ -1,1 +1,1 @@
-Fix OBB xywh-angle concatenation bug (#7404)
+Updating a typo on paddlepaddle.md (#9108)
