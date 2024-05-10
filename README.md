@@ -1,1 +1,1 @@
-ultralytics 8.0.223 add YOLOv8-Ghost P2 and P6 variants (#6826)
+Bump slackapi/slack-github-action from 1.24.0 to 1.25.0 in /.github/workflows (#7871)
