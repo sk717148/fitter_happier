@@ -1,1 +1,1 @@
-Add settings runs_dir == datasets_dir warning (#8653)
+Fixed dataloader CPU bottleneck for small batch sizes (#7659)
