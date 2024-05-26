@@ -1,1 +1,1 @@
-Updated SQL Query Plot Code (#8120)
+Add integrations/gradio Docs page (#7935)
