@@ -1,1 +1,1 @@
-Expand Model method type hinting (#8279)
+Compare plt.get_backend() in lowercase (#8409)
