@@ -1,1 +1,1 @@
-Compare plt.get_backend() in lowercase (#8409)
+Add Ultralytics HUB Cloud Training banner to Docs (#8656)
