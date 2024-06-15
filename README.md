@@ -1,1 +1,1 @@
-Add OBB save_txt feature (#7450)
+ultralytics 8.1.7 USER_CONFIG_DIR Explorer ops (#7861)
