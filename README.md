@@ -1,1 +1,1 @@
-Resize angle, count, and stage on keypoint number change (#7598)
+Fix docker.yaml double-quote version bug (#7452)
