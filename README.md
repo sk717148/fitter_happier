@@ -1,1 +1,1 @@
-Fix Yolo 8.0.206 scale bug (#7821)
+Add settings runs_dir == datasets_dir warning (#8653)
