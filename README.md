@@ -1,1 +1,1 @@
-ultralytics 8.1.19 PNNX aarch64 linux fix (#8480)
+Fix an issue with flatbuffer version for Raspberry Pi (#8311)
