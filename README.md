@@ -1,1 +1,1 @@
-Fix TFLite INT8 for OBB (#7989)
+Auto-format by https://ultralytics.com/actions
