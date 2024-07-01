@@ -1,1 +1,1 @@
-Auto-format by https://ultralytics.com/actions
+Add Neural Magic Docs integrations page (#7234)
