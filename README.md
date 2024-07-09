@@ -1,1 +1,1 @@
-Add visuals in guides/distance-calculation.md (#7876)
+Add Non-Maximum Suppression (NMS) inplace flag (#8368)
