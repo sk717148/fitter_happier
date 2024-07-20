@@ -1,1 +1,1 @@
-Add instance segmentation and vision-eye mapping in Docs + Fix minor code bug in other real-world-projects (#6972)
+Add Ultralytics HUB Cloud Training banner to Docs (#8656)
