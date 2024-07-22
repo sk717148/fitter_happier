@@ -1,1 +1,1 @@
-Add Ultralytics HUB Cloud Training banner to Docs (#8656)
+Update YOLOv3 and YOLOv5 YAMLs (#7574)
