@@ -1,1 +1,1 @@
-Update fraction arg to employ a random selection (#8234)
+* fix for predicting with batch_size > 1
