@@ -1,1 +1,1 @@
-Add HUB-SDK docs (#7775)
+ultralytics 8.1.5 add OBB Tracking support (#7731)
