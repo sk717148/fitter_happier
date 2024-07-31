@@ -1,1 +1,1 @@
-Fix docs links (#7096)
+Faster batch same_shapes (#8851)
