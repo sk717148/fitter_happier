@@ -1,1 +1,1 @@
-Faster batch same_shapes (#8851)
+Add Weights & Biases Docs integrations page (#7199)
