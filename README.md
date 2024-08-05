@@ -1,1 +1,1 @@
-ultralytics 8.1.31 NCNN and CLIP updates (#9235)
+Integrate OpenVINO CUMULATIVE_THROUGHPUT mode batched inference (#8834)
