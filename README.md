@@ -1,1 +1,1 @@
-Add C++ Classify inference example (#6868)
+Optimize function calls to method calls (#8507)
