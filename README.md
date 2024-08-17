@@ -1,1 +1,1 @@
-Update CI.md with CI links (#8786)
+Add C++ Classify inference example (#6868)
