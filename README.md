@@ -1,1 +1,1 @@
-ultralytics 8.1.17 fix ClassificationDataset caching (#8358)
+Update YOLOv3 and YOLOv5 YAMLs (#7574)
