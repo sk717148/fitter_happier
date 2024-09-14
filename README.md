@@ -1,1 +1,1 @@
-ultralytics 8.1.19 PNNX aarch64 linux fix (#8480)
+Adds toggle displaying labels in GUI and verbose log on start (#7804)
