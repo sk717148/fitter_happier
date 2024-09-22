@@ -1,1 +1,1 @@
-New test for labels and crops (#8861)
+Add Ultralytics HUB Cloud Training banner to Docs (#8656)
