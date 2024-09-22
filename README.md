@@ -1,1 +1,1 @@
-Add Ultralytics HUB Cloud Training banner to Docs (#8656)
+Replace onnx2tf usage from CLI to Python (#8429)
