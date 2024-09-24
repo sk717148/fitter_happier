@@ -1,1 +1,1 @@
-Update CI.md with CI links (#8786)
+Fixed RTDETR GFLOPs bug (#7309)
