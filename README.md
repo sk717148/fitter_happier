@@ -1,1 +1,1 @@
-fix export tensorrt with dynamic size
+Segment TensorRT batch=3 fix (#7952)
