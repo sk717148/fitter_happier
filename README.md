@@ -1,1 +1,1 @@
-More robust PNNX downloads (#8866)
+Add docstrings to new HUB functions (#7576)
