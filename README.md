@@ -1,1 +1,1 @@
-Add docstrings to new HUB functions (#7576)
+Elaborate Train and Predict mode docs arguments (#8137)
