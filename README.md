@@ -1,1 +1,1 @@
-Add Non-Maximum Suppression (NMS) inplace flag (#8368)
+Update mkdocs-ultralytics-plugin>=0.0.44 (#8347)
