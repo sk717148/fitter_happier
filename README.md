@@ -1,1 +1,1 @@
-Do RTDETR file suffix check using pathlib instead of string manipulations (#8525)
+Add Non-Maximum Suppression (NMS) inplace flag (#8368)
